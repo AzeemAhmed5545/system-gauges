@@ -41,5 +41,5 @@ Arcs are cyan/green when normal, amber when high and red when critical.
 
 ## License
 
-Copyright © 2026 AzeemAhmed5545 (azivo). All rights reserved. See [LICENSE](LICENSE).
+Copyright © 2026 azivo. All rights reserved. See [LICENSE](LICENSE).
 The source code is not public.
