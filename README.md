@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="docs/azivo-logo.png" width="140" alt="azivo"></p>
+﻿<p align="center"><img src="docs/azivo-oval.png" width="320" alt="azivo"></p>
 
 # System Gauges
 
